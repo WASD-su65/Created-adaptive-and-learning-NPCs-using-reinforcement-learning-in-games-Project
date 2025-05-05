@@ -6,10 +6,10 @@ This project demonstrates the application of reinforcement learning (RL) to deve
 
 The core idea is to implement reinforcement learning algorithms to enable NPCs to:
 
-Learn optimal behaviors through trial-and-error interactions within the game environment.
-Adapt their strategies based on player actions and environmental changes.
-Enhance the realism and challenge of the game by exhibiting intelligent behaviors.
-GitHub
+- Learn optimal behaviors through trial-and-error interactions within the game environment.
+- Adapt their strategies based on player actions and environmental changes.
+- Enhance the realism and challenge of the game by exhibiting intelligent behaviors.
+
 The project utilizes Jupyter Notebook for development and experimentation, providing an interactive platform to test and visualize the learning process of NPCs.
 
 # 📁 Project Structure
@@ -50,9 +50,9 @@ The project utilizes Jupyter Notebook for development and experimentation, provi
 Reinforcement learning is a type of machine learning where agents learn optimal behaviors through interactions with an environment. In the context of gaming, RL enables NPCs to:
 DEV Community
 
--Adapt to player strategies, providing a dynamic challenge.
--Develop complex behaviors without explicit programming.
--Enhance player engagement through unpredictable and intelligent responses.
+- Adapt to player strategies, providing a dynamic challenge.
+- Develop complex behaviors without explicit programming.
+- Enhance player engagement through unpredictable and intelligent responses.
 
 By integrating RL, game developers can create more immersive and responsive game worlds.
 
