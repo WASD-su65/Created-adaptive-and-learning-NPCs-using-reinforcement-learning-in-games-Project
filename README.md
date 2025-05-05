@@ -27,23 +27,23 @@ The project utilizes Jupyter Notebook for development and experimentation, provi
 
 **Installation**
 
-1.Clone the repository:
+1. Clone the repository:
 
 <pre> git clone https://github.com/WASD-su65/Created-adaptive-and-learning-NPCs-using-reinforcement-learning-in-games-Project.git </pre>
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
 <pre> cd Created-adaptive-and-learning-NPCs-using-reinforcement-learning-in-games-Project </pre>
 
-3.Install the required libraries:
+3. Install the required libraries:
 
 <pre> pip install -r requirements.txt </pre>
 
-4.Launch Jupyter Notebook:
+4. Launch Jupyter Notebook:
 
 <pre> jupyter notebook </pre>
 
-5.Open `rl_npc (1).ipynb` and run the cells to observe the learning process of the NPCs.
+5. Open `rl_npc (1).ipynb` and run the cells to observe the learning process of the NPCs.
 
 # 📚 Reinforcement Learning in Gaming
 
