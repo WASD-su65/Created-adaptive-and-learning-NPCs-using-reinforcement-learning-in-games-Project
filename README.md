@@ -20,12 +20,12 @@ The project utilizes Jupyter Notebook for development and experimentation, provi
 
 # 🚀 Getting Started
 
-Prerequisites
+**Prerequisites**
 - Python 3.x
 - Jupyter Notebook
 - Required Python libraries (e.g., NumPy, Matplotlib)
 
-Installation
+**Installation**
 
 1.Clone the repository:
 
